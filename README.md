@@ -10,11 +10,7 @@ My expertise lies in designing **RESTful APIs**, integrating databases, and ensu
 
 With my academic foundation in **Electronics and Instrumentation**, I bring a unique **problem-solving perspective** to software development. My **analytical mindset** and ability to grasp complex systems allow me to build **efficient** and **high-performance** backend solutions. 🧠🔬
 
-**Experience:**
-- SISL PRIVATE LIMITED (AIIMS)  
-- VELOCIS SYSTEM PRIVATE LIMITED (AIIMS)
 
----
 
 # Tech Stack
 
