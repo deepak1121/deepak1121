@@ -4,7 +4,7 @@
 
 # About Me
 
-I am Deepak Singh, a highly skilled **Java Backend Developer** with a strong academic background in **MSc Electronics and Instrumentation**. I specialize in building scalable and maintainable backend systems using **Spring Boot**, **Java**, and related technologies. ☕🛠️
+I am Deepak Singh, a highly skilled **Java Backend Developer** with a strong academic background in **B - Tech Computer Engineering**. I specialize in building scalable and maintainable backend systems using **Spring Boot**, **Java**, and related technologies. ☕🛠️
 
 My expertise lies in designing **RESTful APIs**, integrating databases, and ensuring the **robustness** and **security** of backend applications. I’m continuously exploring the **Spring ecosystem** to implement best practices in backend development. 🚀📦
 
