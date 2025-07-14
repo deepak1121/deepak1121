@@ -5,7 +5,7 @@ I am Deepak Singh, a highly skilled Java Backend Developer with a strong academi
 
 My expertise lies in designing RESTful APIs, integrating databases, and ensuring the robustness and security of backend applications. I’m continuously exploring the Spring ecosystem to implement best practices in backend development. 🚀📦
 
-With my academic foundation in Electronics and Instrumentation, I bring a unique problem-solving perspective to software development. My analytical mindset and ability to grasp complex systems allow me to build efficient and high-performance backend solutions. 🧠🔬
+
 ---
 
 # Tech Stack
